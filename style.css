@@ -1,0 +1,8 @@
+#rectangle {
+    height: 60vh;
+    width: 40vw;
+    border: 2px solid black;
+    background: green;
+    display: flex;
+    flex-wrap: wrap;
+}
